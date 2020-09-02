@@ -19,7 +19,7 @@
 
 8. Although you can modify the Item and therefore delete unwanted components before creating your single End Product, you can’t extract and use a single component of an Item on a stand-alone basis.
 
-`For example: You license a Module containing libraries. You can delete unwanted libraries from the Module. But you can't extract a library to use outside of the Module.`
+>For example: You license a Module containing libraries. You can delete unwanted libraries from the Module. But you can't extract a library to use outside of the Module.
 
 9. You must not permit an end user of the End Product to extract the Item and use it separately from the End Product.
 
@@ -27,17 +27,17 @@
 
 10. For some Items, a component of the Item will be sourced by the author from elsewhere and different license terms may apply to the component, such as someone else’s license or an open source or creative commons license. If so, the component will be identified by the author in the Item’s description page or in the Item’s downloaded files. The other license will apply to that component instead of this license. This license will apply to the rest of the Item.
 
-'For example: A Module might contain images licensed under a Creative Commons CCBY license. The CCBY license applies to those specific images. This license applies to the rest of the Module.'
+>For example: A Module might contain images licensed under a Creative Commons CCBY license. The CCBY license applies to those specific images. This license applies to the rest of the Module.
 
 11. For some items, a GNU General Public License (GPL) or another open source license applies. The open source license applies in the following ways:
 
-(a)Some Items, even if entirely created by the author, may be partially subject to the open source license: a ‘split license’ applies. This means that the open source license applies to an extent that’s determined by the open source license terms and the nature of the Item, and this license applies to the rest of the Item.
+- Some Items, even if entirely created by the author, may be partially subject to the open source license: a ‘split license’ applies. This means that the open source license applies to an extent that’s determined by the open source license terms and the nature of the Item, and this license applies to the rest of the Item.
 
-Split and other open source licensing is relevant for themes and extensions for Opencart and other open source platforms. Where split licensing applies, this is noted in the Item’s download files.
+>Split and other open source licensing is relevant for themes and extensions for Opencart and other open source platforms. Where split licensing applies, this is noted in the Item’s download files.
 
-(b)For some Items, the author may have chosen to apply a GPL license to the entire Item. This means that the relevant GPL license will apply to the entire Item instead of this license.
+- For some Items, the author may have chosen to apply a GPL license to the entire Item. This means that the relevant GPL license will apply to the entire Item instead of this license.
 
-Where an Item is entirely under a GPL license, it will be identified as a GPL item and the license noted in the download files.
+>Where an Item is entirely under a GPL license, it will be identified as a GPL item and the license noted in the download files.
 
 12. You can only use the Item for lawful purposes. Also, if an Item contains an image of a person, even if the Item is model-released you can’t use it in a way that creates a fake identity, implies personal endorsement of a product by the person, or in a way that is defamatory, obscene or demeaning, or in connection with sensitive subjects.
 
