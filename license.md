@@ -2,42 +2,32 @@
 
 2. You are licensed to use the Item to create one single End Product for yourself or for one client (a “single application”), `and the End Product can be distributed for Free.`
 
-3. An End Product is one of the following things, both requiring an application of skill and effort.
-
-(a) For an Item that is a Module, the End Product is a customised implementation of the Item.
+For an Item that is a Module, the End Product is a customised implementation of the Item.
 
 For example: the item is an extension and the end product is the final website customised with your content.
 
-(b)For other types of Item, an End Product is a work that incorporates the Item as well as other things, so that it is larger in scope and different in nature than the Item.
-
-For example: the item is a button graphic and the end product is a website. See the FAQs for examples and information about End Products and the single application requirement.
 
 ### Things you can do with the Item
 
-4. You can create one End Product for a client, and you can transfer that single End Product to your client for any fee. This license is then transferred to your client.
+4. You can create one End Product for a client, and you can transfer that single End Product to your client for any fee. `This license is then transferred to your client.`
 
 > 5. You can make any number of copies of the single End Product, as long as the End Product is distributed for Free.
 
-6. You can modify or manipulate the Item. You can combine the Item with other works and make a derivative work from it. The resulting works are subject to the terms of this license. You can do these things as long as the End Product you then create is one that’s permitted under clause 3.
+6. You can modify or manipulate the Item. You can combine the Item with other works and make a derivative work from it. In this case you lose free support from us.
 
-For example: You can license a flyer template, include your own photos, modify the layout and get it printed to promote your event.
 
-Whoa there! Things you can't do with the item
-7. You can’t Sell the End Product, except to one client. (If you or your client want to Sell the End Product, you will need the Extended License.)
+### Things you can't do with the item
+7. You can’t Sell the End Product, except to one client. (If you or your client want to Sell the End Product, you will need to buy a new License.)
 
-8. You can’t re-distribute the Item as stock, in a tool or template, or with source files. You can’t do this with an Item either on its own or bundled with other items, and even if you modify the Item. You can’t re-distribute or make available the Item as-is or with superficial modifications. These things are not allowed even if the re-distribution is for Free.
+8. You can’t re-distribute the Item. You can’t do this with an Item either on its own or bundled with other items, and even if you modify the Item. You can’t re-distribute or make available the Item as-is or with superficial modifications. These things are not allowed even if the re-distribution is for Free.
 
-If you’re an Envato author you can use other items in your item’s preview without a license, under conditions. See the author licensing FAQs.
-
-For example: You can’t purchase an HTML template, convert it to a WordPress theme and sell or give it to more than one client. You can’t license an item and then make it available as-is on your website for your users to download.
-
-9. You can’t use the Item in any application allowing an end user to customise a digital or physical product to their specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the Item in this way only if you purchase a separate license for each final product incorporating the Item that is created using the application.
+> 9. You can’t use the Item in any application allowing an end user to customise a digital or physical product to their specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the Item in this way only if you purchase a separate license for each final product incorporating the Item that is created using the application.
 
 Examples of “on demand”, “made to order” or “build it yourself” applications: website builders, “create your own” slideshow apps, and e-card generators. You will need one license for each product created by a customer, or contact us at Help Center to discuss.
 
 10. Although you can modify the Item and therefore delete unwanted components before creating your single End Product, you can’t extract and use a single component of an Item on a stand-alone basis.
 
-For example: You license a website theme containing icons. You can delete unwanted icons from the theme. But you can't extract an icon to use outside of the theme.
+For example: You license a Module containing libraries. You can delete unwanted libraries from the Module. But you can't extract an library to use outside of the Module.
 
 11. You must not permit an end user of the End Product to extract the Item and use it separately from the End Product.
 
