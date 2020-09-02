@@ -2,7 +2,7 @@
 
 2. You are licensed to use the Item to create one single End Product for yourself or for one client (a “single application”).
 
-`For example: the item is an extension and the end product is the final website customised with your content.`
+>For example: the item is an extension and the end product is the final website customised with your content.
 
 
 ### Things you can do with the Item
